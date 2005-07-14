@@ -1,0 +1,65 @@
+
+
+Sm-Blur Source License v0.1
+==========================
+
+Preamble:
+
+The intent of this document is to state the conditions under which a Package may
+be viewed, spread, copied or modified for intent of learning, tutoring or delevoping
+software. This License was done to give you the rights of having a look at used techniques
+or designs. It will thereby grant all copyrights to the Copyright Holder concerning
+his effort and time to develop the Package and his exclusive right to charge fee for
+the Package and/or Product and his work.
+
+Definitions:
+
+    * "Package" refers to the collection of files distributed by the Copyright Holder,
+       and derivatives of that collection of files created through textual modification.
+    * "Standard Version" refers to such a Package if it has not been modified, or has
+       been modified in accordance with the wishes of the Copyright Holder.
+    * "Copyright Holder" is whoever is named in the copyright or copyrights for the package.
+    * "You" is you, if you're thinking about copying or distributing this Package.
+    * "Reasonable copying fee" is whatever you can justify on the basis of media cost,
+       duplication charges, time of people involved, and so on. (You will not be required
+       to justify it to the Copyright Holder, but only to the computing community at large
+       as a market that must bear the fee.)
+    * "Freely Available" means that no fee is charged for the item itself, though there may
+       be fees involved in handling the item. It also means that recipients of the item may
+       redistribute it under the same conditions they received it.
+
+1. You may make and give away unmodified copies of the source of the Standard Version of this
+   Package without restriction as long as it is Freely Available (for charging look further
+   down) and provided that you duplicate all of the original copyright notices and associated
+   disclaimers.
+
+2. You may apply bug fixes, portability fixes and other modifications derived from the Public
+   Domain or from the Copyright Holder. A Package modified in such a way shall still be
+   considered the Standard Version and a notice on changes have to be added to the file
+   specifying the made changes with time and You're name and optional additional information.
+
+3. You are not allowed to make further changes in the source, than in (2.) granted. This applies
+   to all changes including previous comments or copyrights, if You don't have a written
+   permission of the Copyright Holder.
+
+4. You may charge a reasonable copying fee for any distribution of this Package. You are
+   not allowed to charge fee for support of this Package.
+
+5. Neither parts of the package are, nor the whole package is allowed to use in any other
+   software, in parts or in a whole, without written permission of the Copyright Holder of
+   the file or Package.
+
+6. You are allowed to perform the Standard Version of this Package or parts of it publicly
+   like a tutorium, lecture, excercise or similar. This applies also to written derivates
+   of such, as long as it does not conflict with (8.).
+   You're demonstration is not allowed to conflict with the term, that the Package has to
+   be Freely Available for all.
+
+7. The name of the Copyright Holder may not be used to endorse or promote products
+   derived from this Package without specific prior written permission of the Copyright
+   Holder.
+
+8. You are not allowed to spread this Package or parts of it in a mass like in a
+   download-archive, NewsPaper, Magazine, Book or similar without written permission of
+   the Copyright Holder.
+
